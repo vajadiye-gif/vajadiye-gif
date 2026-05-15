@@ -188,15 +188,23 @@ Data Visualisation             ████████████████�
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=vajadiye-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajadiye-gif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vajadiye-gif&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vajadiye-gif&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vajadiye-gif&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vajadiye-gif&layout=compact&theme=default&hide_border=true&title_color=0969da&text_color=24292f&langs_count=6" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vajadiye-gif&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&dates=c9d1d9)](https://github.com/vajadiye-gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vajadiye-gif&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=vajadiye-gif&theme=default&hide_border=true&stroke=0969da&ring=0969da&fire=ff7b54&currStreakLabel=0969da&dates=24292f" />
+</picture>
 </div>
 
 ---
@@ -205,8 +213,10 @@ Data Visualisation             ████████████████�
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vajadiye-gif&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)](https://github.com/vajadiye-gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vajadiye-gif&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vajadiye-gif&theme=minimal&bg_color=ffffff&color=0969da&line=0969da&point=ff7b54&hide_border=true" />
+</picture>
 </div>
 
 ---

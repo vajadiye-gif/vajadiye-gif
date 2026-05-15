@@ -32,7 +32,7 @@ I'm a **Physics undergraduate at IISER Pune** working at the intersection of non
 - 🛠️ **Stack:** Python · NumPy · SciPy · Numba · PyTorch · Matplotlib · Jupyter
 - 🏛️ **Supervised by:** Ushasi Roy, IISER Pune (Computational Biophysics group)
 - 🎯 **Currently:** Building spatially-extended models of cancer metastasis mechanics
-- 📖 **Open to:** Research internships · M.Sc./Ph.D. positions · Computational physics/biology roles
+- 📖 **Open to:** Research internships · Ph.D. positions · Computational Physics/Biology roles · Industry Job positions
 
 ---
 

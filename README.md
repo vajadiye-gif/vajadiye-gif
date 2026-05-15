@@ -48,7 +48,7 @@ I'm a **Physics undergraduate at IISER Pune** working at the intersection of non
 | **ODE Systems** | Quasi-static continuation, hysteresis sweeps, stiff integration, bistability & tristability analysis |
 | **Performance** | Numba JIT (`@njit`, `prange`), parallelised spatial solvers, vectorised NumPy pipelines |
 | **Linear Algebra** | Random Matrix Theory (Wigner semi-circle, KDE spectral analysis), eigenvalue decomposition |
-| **Libraries** | `numpy` · `scipy` · `numba` · `matplotlib` · `pandas` · `ipywidgets` |
+| **Libraries** | `numpy` · `scipy` · `numba` · `matplotlib` · `pandas` · `ipywidgets` · `sympy` |
 
 </details>
 

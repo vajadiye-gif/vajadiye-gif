@@ -14,7 +14,7 @@
 <!-- ══════════════════════ QUICK BADGES ══════════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=vajadiye-gif&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/vajadiye-gif)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/vajadiye-gif?label=Followers&style=flat-square&color=0e75b6)](https://github.com/vajadiye-gif?tab=followers)&nbsp;
-[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Research%20%26%20Internships-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)](#-connect-with-me)&nbsp;
+[![Open to Opportunities](https://img.shields.io/badge/Open%20to-Jobs%2C%20Research%20%26%20Internships-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)](#-connect-with-me)&nbsp;
 [![IISER Pune](https://img.shields.io/badge/IISER_Pune-BSMS_Physics-0d6efd?style=flat-square&logo=academia&logoColor=white)](https://www.iiserpune.ac.in/)
 
 </div>

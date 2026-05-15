@@ -242,7 +242,7 @@ Data Visualisation             ████████████████�
 
 | Degree | Institution | Status |
 |---|---|---|
-| **BSMS in Physics** (5-year integrated master's) | Indian Institute of Science Education and Research (IISER) Pune | 2021 – Present |
+| **BSMS in Physics** (5-year integrated master's) | Indian Institute of Science Education and Research (IISER) Pune | 2022 – Present |
 
 IISER Pune is a premier autonomous research institution in India, established by the Ministry of Education, with a curriculum built around research exposure from Year 1. Admission is highly competitive (top ~0.1% nationally via IIT-JEE / KVPY).
 

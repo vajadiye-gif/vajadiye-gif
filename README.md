@@ -78,7 +78,7 @@ I'm a **Physics undergraduate at IISER Pune** working at the intersection of non
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Software & Workflow</b></summary>
 <br/>
 

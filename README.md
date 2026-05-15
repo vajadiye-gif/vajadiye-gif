@@ -254,7 +254,7 @@ IISER Pune is a premier autonomous research institution in India, established by
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40vajadiye--gif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vajadiye-gif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-jadiye-565339368/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](ved.amarjadiye@students.iiserpune.ac.in)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](vajadiye@gmail.com)
 [![Twitter / X](https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-HANDLE)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/YOUR-PROFILE)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/YOUR-PROFILE)

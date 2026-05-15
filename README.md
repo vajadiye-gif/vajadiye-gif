@@ -59,7 +59,7 @@ I'm a **Physics undergraduate at IISER Pune** working at the intersection of non
 | Area | Tools & Techniques |
 |---|---|
 | **Computer Vision** | Image classification, transfer learning (ResNet-18), fine-tuning on domain-specific datasets |
-| **Frameworks** | `PyTorch` · `torchvision` |
+| **Frameworks** | `PyTorch` · `torchvision` · `scikit-learn`|
 | **Tasks** | Multi-class classification (blood cell morphology), feature extraction, model evaluation |
 
 </details>

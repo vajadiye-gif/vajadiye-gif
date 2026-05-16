@@ -6,7 +6,7 @@
 <!-- ══════════════════════ TYPING HEADLINE ══════════════════════ -->
 <br/>
 <a href="https://github.com/vajadiye-gif">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Reaction%E2%80%93Diffusion+Modeling+%26+Nonlinear+Dynamics;Computational+Biophysics+%7C+Cancer+Cell+Transitions;PDE+Numerics+%7C+Deep+Learning+%7C+Data+Science;Physics+Undergraduate+%40+IISER+Pune" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Reaction%E2%80%93Diffusion+Modeling+%26+Nonlinear+Dynamics;Computational+Biophysics+%7C+Cancer+Cell+Transitions;PDE+Numerics+%7C+Deep+Learning+%7C+Data+Science;BSMS+Physics+%40+IISER+Pune" alt="Typing animation" />
 </a>
 
 <br/><br/>

@@ -115,7 +115,7 @@ Data Visualisation             ████████████████�
 | Status | Area | What |
 |--------|------|------|
 | 🟢 Active | EMT · RMT · PDE | Spatially-extended cancer metastasis models + spectral analysis |
-| 📘 Learning | Molecular Dynamics | OpenMM / GROMACS / MDAnalysis |
+| 📘 Learning | Monte Carlo methods | Metropolis sampling, MCMC — stochastic mechanics → statistical simulation |
 | 📊 Exploring | Quant finance | SDE pricing, Fokker-Planck applied to markets |
 | 🎯 Next | ML for science | Neural ODEs, Physics-Informed Neural Networks |
 

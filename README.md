@@ -110,7 +110,7 @@ Data Visualisation             ████████████████�
 
 ---
 
-## 🔭 Currently building & exploring
+## 🔭 Currently Building & Exploring
 
 ---
 

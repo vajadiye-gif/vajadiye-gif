@@ -25,7 +25,7 @@
 
 > *"I treat biological systems as dynamical systems first, and develop code guided by physical intuition alongside computational rigor to make their hidden structure visible."*
 
-I'm a **Physics undergraduate at IISER Pune** working at the intersection of nonlinear dynamics, computational biology, and machine learning. My research centres on building numerical simulations of complex physical systems — from Turing pattern formation in reaction–diffusion PDEs to cancer cell-state transitions via gene-regulatory circuits. I have hands-on experience translating continuous mathematical models (ODEs, PDEs, RMT) into reproducible, well-documented Python pipelines that generate both rigorous scientific insight and publication-ready visualisations.
+I'm a **BSMS Physics Student at IISER Pune** working at the intersection of nonlinear dynamics, computational biology, and machine learning. My research centres on building numerical simulations of complex physical systems — from Turing pattern formation in reaction–diffusion PDEs to cancer cell-state transitions via gene-regulatory circuits. I have hands-on experience translating continuous mathematical models (ODEs, PDEs, RMT) into reproducible, well-documented Python pipelines that generate both rigorous scientific insight and publication-ready visualisations.
 
 - 🔬 **Research focus:** Reaction–Diffusion systems · Epithelial–Mesenchymal Transition (EMT) · Nonlinear dynamics
 - 🧠 **Methods:** Bifurcation analysis · Basin-of-attraction mapping · Random Matrix Theory · Transfer Learning

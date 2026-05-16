@@ -273,7 +273,7 @@ IISER Pune is a premier autonomous research institution in India, established by
 
 <br/>
 
-> 📌 **Open to:** Research internships in computational physics/biology · PhD/MS applications in Biophysics, Applied Mathematics, or Computational Science · Collaborations on dynamical systems or ML-for-science projects.
+> 📌 **Open to:** Industrial Job opportunities in Simulation and Modeling · Research internships in computational physics/biology · PhD applications in Biophysics, Applied Mathematics, or Computational Science · Collaborations on dynamical systems or ML-for-science projects.
 
 ---
 

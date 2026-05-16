@@ -110,6 +110,17 @@ Data Visualisation             ████████████████�
 
 ---
 
+## 🔭 Currently Building & Exploring
+
+| Status | Area | What |
+|--------|------|------|
+| 🟢 Active | EMT · RMT · PDE | Spatially-extended cancer metastasis models + spectral analysis |
+| 📘 Learning | Molecular Dynamics | OpenMM / GROMACS / MDAnalysis |
+| 📊 Exploring | Quant finance | SDE pricing, Fokker-Planck applied to markets |
+| 🎯 Next | ML for science | Neural ODEs, Physics-Informed Neural Networks |
+
+---
+
 ## 🔬 Featured Projects
 
 ---

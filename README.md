@@ -110,15 +110,61 @@ Data Visualisation             ████████████████�
 
 ---
 
-## 🔭 Currently Building & Exploring
+## 🔭 Currently building & exploring
 
-| Status | Area | What |
-|--------|------|------|
-| 🟢 Active | EMT · RMT · PDE | Spatially-extended cancer metastasis models + spectral analysis |
-| 📘 Learning | Monte Carlo methods | Metropolis sampling, MCMC — stochastic mechanics → statistical simulation |
-| 📊 Exploring | Quant finance | SDE pricing, Fokker-Planck applied to markets |
-| 🎯 Next | ML for science | Neural ODEs, Physics-Informed Neural Networks |
+<table border="0" cellspacing="0" cellpadding="0">
 
+<tr>
+<td valign="top" width="120">
+  <img src="https://img.shields.io/badge/●_Active-22c55e?style=flat-square&labelColor=22c55e&color=dcfce7&logoColor=166534" alt="Active">
+</td>
+<td valign="top" style="padding-bottom:20px">
+  <b>EMT · RMT · spatially-extended PDE</b><br>
+  <sub>Cancer metastasis mechanics — 7-species ODE circuit, 2D operator-splitting PDE solver, RMT spectral analysis on ZEB fields</sub><br><br>
+  <code>Numba</code> &nbsp;<code>SciPy</code> &nbsp;<code>Plotly</code> &nbsp;<code>ipywidgets</code>
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://img.shields.io/badge/-|-%23e5e7eb?style=flat-square&labelColor=e5e7eb&color=e5e7eb" alt="" width="1" height="16"></td></tr>
+
+<tr>
+<td valign="top" width="120">
+  <img src="https://img.shields.io/badge/◎_Learning-3b82f6?style=flat-square&labelColor=3b82f6&color=dbeafe&logoColor=1e40af" alt="Learning">
+</td>
+<td valign="top" style="padding-bottom:20px">
+  <b>Monte Carlo methods</b><br>
+  <sub>Metropolis sampling, MCMC — bridging Langevin / Fokker-Planck intuition to discrete stochastic simulation</sub><br><br>
+  <code>NumPy</code> &nbsp;<code>SciPy</code>
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://img.shields.io/badge/-|-%23e5e7eb?style=flat-square&labelColor=e5e7eb&color=e5e7eb" alt="" width="1" height="16"></td></tr>
+
+<tr>
+<td valign="top" width="120">
+  <img src="https://img.shields.io/badge/◈_Exploring-f59e0b?style=flat-square&labelColor=f59e0b&color=fef3c7&logoColor=92400e" alt="Exploring">
+</td>
+<td valign="top" style="padding-bottom:20px">
+  <b>Quant finance modeling</b><br>
+  <sub>SDE-based option pricing, Fokker-Planck in markets — applying stochastic mechanics to financial systems</sub><br><br>
+  <code>Black-Scholes</code> &nbsp;<code>SDEs</code>
+</td>
+</tr>
+
+<tr><td colspan="2"><img src="https://img.shields.io/badge/-|-%23e5e7eb?style=flat-square&labelColor=e5e7eb&color=e5e7eb" alt="" width="1" height="16"></td></tr>
+
+<tr>
+<td valign="top" width="120">
+  <img src="https://img.shields.io/badge/○_Next-94a3b8?style=flat-square&labelColor=94a3b8&color=f1f5f9&logoColor=475569" alt="Next">
+</td>
+<td valign="top">
+  <b>ML for science</b><br>
+  <sub>Neural ODEs, Physics-Informed Neural Networks — deep learning as a dynamical systems tool</sub><br><br>
+  <code>PyTorch</code> &nbsp;<code>torchdiffeq</code>
+</td>
+</tr>
+
+</table>
 ---
 
 ## 🔬 Featured Projects

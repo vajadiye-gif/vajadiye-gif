@@ -110,7 +110,7 @@ flowchart LR
         O2["Numba JIT Solver"]
         O3["Hysteresis Sweep"]
         O4["Tristability\nE · Hybrid · M"]
-        O5["Basin Mapping\n10⁵ trajectories"]
+        O5["Basin Mapping\n105 trajectories"]
     end
 
     subgraph PDE ["Spatial Extension"]

@@ -94,20 +94,55 @@ I'm a **BSMS Physics Student at IISER Pune** working at the intersection of nonl
 
 ---
 
-## 📈 Competency Overview
+## ⚡ Computational Pipeline — EMT
 
-```text
-Reaction–Diffusion Modeling    ████████████████████░░   90%
-Nonlinear Dynamics & Chaos     ███████████████████░░░   85%
-Computational Biophysics       ████████████████████░░   88%
-Python Scientific Stack        ███████████████████░░░   86%
-Numerical PDE Methods          ██████████████████░░░░   82%
-Random Matrix Theory           ████████████████░░░░░░   72%
-Deep Learning (PyTorch)        █████████████░░░░░░░░░   60%
-Statistical Data Analysis      ████████████████░░░░░░   72%
-Data Visualisation             ████████████████████░░   88%
+---
+
+```mermaid
+flowchart LR
+    subgraph IN ["Inputs"]
+        I1["TGF-β Signal"]
+        I2["Hill Functions\nShea–Ackers"]
+    end
+
+    subgraph ODE ["ODE Layer"]
+        O1["7-species Circuit\nSNAIL · ZEB · miR-200 · miR-34"]
+        O2["Numba JIT Solver"]
+        O3["Hysteresis Sweep"]
+        O4["Tristability\nE · Hybrid · M"]
+        O5["Basin Mapping\n10⁵ trajectories"]
+    end
+
+    subgraph PDE ["Spatial Extension"]
+        P1["2D Reaction–Diffusion\n50×50 grid"]
+        P2["Operator Splitting\nLie–Trotter"]
+        P3["Neumann BCs"]
+    end
+
+    subgraph RMT ["RMT Analysis"]
+        R1["ZEB Field\n→ Random Matrix"]
+        R2["Eigenvalue KDE"]
+        R3["Rank-1 Outlier\nSpatial Order"]
+    end
+
+    subgraph OUT ["Findings"]
+        F1["Tristability\nCharacterised"]
+        F2["M Basin Widest\nHardest to Reverse"]
+        F3["Diffusion Kills\nHybrid State"]
+        F4["Long-range Order\nas M expands"]
+    end
+
+    I1 --> O1
+    I2 --> O1
+    O1 --> O2 --> O3 --> O4
+    O4 --> O5
+    O4 -->|lift to space| P1
+    P1 --> P2 --> P3
+    O4 --> F1
+    O5 --> F2
+    P3 --> F3
+    P1 --> R1 --> R2 --> R3 --> F4
 ```
-
 ---
 
 ## 🔭 Currently Building & Exploring

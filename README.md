@@ -93,18 +93,14 @@ I'm a **BSMS Physics Student at IISER Pune** working at the intersection of nonl
 </details>
 
 ---
-
 ## ⚡ Computational Pipeline — EMT
-
 ---
-
 ```mermaid
 flowchart LR
     subgraph IN ["Inputs"]
         I1["TGF-β Signal"]
         I2["Hill Functions\nShea–Ackers"]
     end
-
     subgraph ODE ["ODE Layer"]
         O1["7-species Circuit\nSNAIL · ZEB · miR-200 · miR-34"]
         O2["Numba JIT Solver"]
@@ -112,19 +108,16 @@ flowchart LR
         O4["Tristability\nE · Hybrid · M"]
         O5["Basin Mapping\n105 trajectories"]
     end
-
     subgraph PDE ["Spatial Extension"]
         P1["2D Reaction–Diffusion\n50×50 grid"]
         P2["Operator Splitting\nLie–Trotter"]
         P3["Neumann BCs"]
     end
-
     subgraph RMT ["RMT Analysis"]
         R1["ZEB Field\n→ Random Matrix"]
         R2["Eigenvalue KDE"]
         R3["Rank-1 Outlier\nSpatial Order"]
     end
-
     subgraph OUT ["Findings"]
         F1["Tristability\nCharacterised"]
         F2["M Basin Widest\nHardest to Reverse"]
@@ -142,6 +135,18 @@ flowchart LR
     O5 --> F2
     P3 --> F3
     P1 --> R1 --> R2 --> R3 --> F4
+
+    classDef input  fill:#1a3a2a,stroke:#4caf82,color:#a8f0c8
+    classDef ode    fill:#2a1a3a,stroke:#9c6fcc,color:#d4aaff
+    classDef pde    fill:#3a2a10,stroke:#cc8c3a,color:#ffd080
+    classDef rmt    fill:#3a1a1a,stroke:#cc4f4f,color:#ffaaaa
+    classDef out    fill:#1a1a3a,stroke:#c8a96e,color:#ffe0a0
+
+    class I1,I2 input
+    class O1,O2,O3,O4,O5 ode
+    class P1,P2,P3 pde
+    class R1,R2,R3 rmt
+    class F1,F2,F3,F4 out
 ```
 ---
 
